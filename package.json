@@ -1,0 +1,20 @@
+{
+  "name": "fisrt-project-node-code-club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "Brunno-Gama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uud": "^0.0.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
